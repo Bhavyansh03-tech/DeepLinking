@@ -34,7 +34,7 @@ This repository demonstrates the implementation of deep linking in an Android ap
 ### Usage
 
 1. **Define Deep Links**:
-    - Deep links are defined in the `AndroidManifest.xml` file under the activity declaration or through `Tools>ApplicationLinkAssistance>Create or add Link to it and then Test it`.
+    - Deep links are defined in the `AndroidManifest.xml` file under the activity declaration or through `Tools > ApplicationLinkAssistance > Create or add Link to it and then Test it`.
     ```xml
     <activity
             android:name=".MainActivity"
